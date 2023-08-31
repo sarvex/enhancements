@@ -6,6 +6,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/go-playground/validator/v10 v10.4.1
 	github.com/google/go-github/v33 v33.0.0
+	github.com/google/go-github/v54 v54.0.0
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.7.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/errors v0.9.1
