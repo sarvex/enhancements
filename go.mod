@@ -16,7 +16,7 @@ require (
 	golang.org/x/oauth2 v0.11.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/release v0.7.1-0.20210218090651-d71805402dab
-	k8s.io/test-infra v0.0.0-20230831111648-1bad522160ef
+	k8s.io/test-infra v0.0.0-20230831183248-a97292484eb8
 )
 
 require (
